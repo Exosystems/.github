@@ -17,4 +17,5 @@ After a new repo is created edit the Readme.md to include in the list below
 
 | repo name | Contributor| 
 | --- | --- |
-| RnD_fitness_IMU | @pato |
+| [RnD_fitness_IMU](https://github.com/Exosystems/RnD_fitness_IMU) | @meier |
+| [RnD_gait_analysis_imu](https://github.com/Exosystems/RnD_gait_analysis_imu) | @pato |
