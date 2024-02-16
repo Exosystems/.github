@@ -10,9 +10,11 @@ exosystems@exosystems.io
 ---
 For starting creating your own code repository use the template provided here
 
--> GOTO [TEMPLATE](https://github.com/Exosystems/RnD_template_repo)
+-> GO TO [TEMPLATE](https://github.com/Exosystems/RnD_template_repo)
 
 ---
 After a new repo is created edit the Readme.md to include in the list below
 
 | repo name | Contributor| 
+| --- | --- |
+| RnD_fitness_IMU | @pato |
