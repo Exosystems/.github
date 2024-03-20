@@ -26,9 +26,12 @@ Unless specified, all databases was collected using the company exoPill.
 
 There are various project related to EMG and IMU under development. The following table summarizes the statistics of the models under research and the current best performance
 
-| Project | Metric| Performance | Database | Repo |
-| --- | --- | --- | --- |--- |
-| Sarcopenia Classification | Accuracy | 0.70 | KHU-IMU | link |
+| Project | Model | Metric| Performance | Database | Repo |
+| --- | --- | --- | --- | --- |--- |
+| Sarcopenia Classification | 1DCNN Separable convolution | Accuracy | 0.70 | KHU-IMU | link |
+| SMA-MQ | - | MSE/Pcorr | - | - | link |
+| MFI-D | - | MAE | - | WND | link |
+| MQ | - | MSE/Pcorr | - | KHU-EMG | link |
 
 ---
 
