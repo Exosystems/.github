@@ -15,7 +15,7 @@ Here you will find the source code for the projects we are currently developing 
 The company has collected various databases that you can find in the following [repository](https://github.com/Exosystems/databases).
 Unless specified, all databases was collected using the company exoPill. 
 
-| Dataset | #Samples| #Channels | #Classes | Length | Freq (Hz) |
+| Dataset | #Subjects| #Channels | #Classes | Length | Freq (Hz) |
 | --- | --- | --- | --- | --- | --- |
 | KHU-EMG | 90 | 6 | 4 | 6500 | 1000 |
 | KHU-IMU | 180 | 24 | 4 | - | 148 |
