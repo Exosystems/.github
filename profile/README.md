@@ -29,6 +29,7 @@ There are various project related to EMG and IMU under development. The followin
 | Project | Model | Metric| Performance | Database | Repo |
 | --- | --- | --- | --- | --- |--- |
 | Sarcopenia Classification | 1DCNN Separable convolution | Accuracy | 0.70 | KHU-IMU | link |
+| Sarcopenia Classification | 1DCNN Separable convolution | Accuracy | 0.51 | KHU-EMG | link |
 | SMA-MQ | - | MSE/Pcorr | - | - | link |
 | MFI-D | - | MAE | - | WND | link |
 | MQ | - | MSE/Pcorr | - | KHU-EMG | link |
