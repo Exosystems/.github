@@ -4,8 +4,8 @@ Hello! Welcome to the company page.
 Here you will find the source code for the projects we are currently developing and more.
 
 **General guidelines**: 
-1. If you are creating a new repository follow this [template](https://github.com/Exosystems/RnD_template_repo) 
-2. If there is a new project that include other members you can use this [template](https://github.com/orgs/Exosystems/projects/18)
+1. If you are creating a new repository for ML/DL project follow this [template](https://github.com/Exosystems/RnD_template_repo) 
+2. If there is a new project that includes other members you can use this [template](https://github.com/orgs/Exosystems/projects/18)
 3. For more questions or issues [Contact Us](mailto:exosystems@exosystems.io)
    
 ---
@@ -26,13 +26,13 @@ Unless specified, all databases was collected using the company exoPill.
 
 There are various project related to EMG and IMU under development. The following table summarizes the statistics of the models under research and the current best performance
 
-| Project | Model | Metric| Performance | Database | Repo |
+| Project | Database | Model | Metric| Performance | Repo |
 | --- | --- | --- | --- | --- |--- |
-| Sarcopenia Classification | 1DCNN Separable convolution | Accuracy | 0.70 | KHU-IMU | link |
-| Sarcopenia Classification | 1DCNN Separable convolution | Accuracy | 0.51 | KHU-EMG | link |
-| SMA-MQ | - | MSE/Pcorr | - | - | link |
-| MFI-D | - | MAE | - | WND | link |
-| MQ | - | MSE/Pcorr | - | KHU-EMG | link |
+| Sarcopenia Classification | KHU-IMU | 1DCNN Separable convolution | Accuracy | 0.70 |  link |
+| Sarcopenia Classification | KHU-EMG | 1DCNN Separable convolution | Accuracy | 0.51 |  link |
+| SMA-MQ | - |- | MSE/Pcorr | - | link |
+| MFI-D | WND | - | MAE | - |  link |
+| MQ | KHU-EMG |- | MSE/Pcorr | - |  link |
 
 ---
 
