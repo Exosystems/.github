@@ -10,32 +10,29 @@ Here you will find the source code for the projects we are currently developing 
    
 ---
 
-### Databases list
+### Databases list 💾
 
-The company has collected various databases that you can find in the following [repository](https://github.com/Exosystems/databases).
-Unless specified, all databases was collected using the company exoPill. 
-
-| Dataset | #Subjects| #Channels | #Classes | Length | Freq (Hz) |
-| --- | --- | --- | --- | --- | --- |
-| KHU-EMG | 90 | 6 | 4 | 6500 | 1000 |
-| KHU-IMU | 180 | 24 | 4 | - | 148 |
+The company has collected various databases that you can find in the following [repository](https://github.com/Exosystems/RnD_databases).
 
 ---
 
-### Benchmark list
+### Benchmark list 📊
 
-There are various project related to EMG and IMU under development. The following table summarizes the statistics of the models under research and the current best performance
-
-| Project | Database | Model | Metric| Performance | Repo |
-| --- | --- | --- | --- | --- |--- |
-| Sarcopenia Classification | KHU-IMU | 1DCNN Separable convolution | Accuracy | 0.70 |  link |
-| Sarcopenia Classification | KHU-EMG | 1DCNN Separable convolution | Accuracy | 0.51 |  link |
-| SMA-MQ | - |- | MSE/Pcorr | - | link |
-| MFI-D | WND | - | MAE | - |  link |
-| MQ | KHU-EMG |- | MSE/Pcorr | - |  link |
+There are various project related to EMG and IMU under development, check the [repository](https://github.com/Exosystems/RnD_benchmark). 
 
 ---
 
+### Paper writing ✍️
+
+**Affiliation**
+'EXOSYSTEMS AI Research'
+
+**Acknowledgment**
+This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government Ministry of Science and ICT (2022R1C1C1012535). This work was supported by the Technology Innovation Program(20018182) funded By the Ministry of Trade, Industry & Energy(MOTIE, Korea). This work was supported by the Korea Medical Device Development Fund grant funded by the Korea government (the Ministry of Science and ICT, the Ministry of Trade, Industry and Energy, the Ministry of Health Welfare, the Ministry of Food and Drug Safety) (Project Number: KMDF PR 20200901 0101). 
+
+👀 For updates on this contact [@will](mailto:will@exosystems.io)
+
+---
 ### General description of current repositories
 
 | repo name | Contributor| Summary |
