@@ -10,19 +10,19 @@ Here you will find the source code for the projects we are currently developing 
    
 ---
 
-### Databases list 💾
+### 💾 Databases list 
 
 The company has collected various databases that you can find in the following [repository](https://github.com/Exosystems/RnD_databases).
 
 ---
 
-### Benchmark list 📊
+### 📊 Benchmark list 
 
 There are various project related to EMG and IMU under development, check the [repository](https://github.com/Exosystems/RnD_benchmark). 
 
 ---
 
-### Paper writing ✍️
+### ✍️ Paper writing 
 
 **Affiliation**
 'EXOSYSTEMS AI Research'
